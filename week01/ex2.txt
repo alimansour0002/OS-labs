@@ -1,0 +1,100 @@
+  846  git commit -m "Fixed bugs"
+  847  git push
+  848  git status
+  849  git add .
+  850  git status
+  851  git commit -m "Fixed bugs"
+  852  git push
+  853  mkdir~/week1
+  854  mkdir ~/week1
+  855  cd week1/
+  856  touch ex1.sh
+  857  gedit ex1.sh
+  858  ./ex1.sh
+  859  sudo
+  860  sudo ./ex1.sh
+  861  chmod 744
+  862  chmod 744 ex1.sh
+  863  ./ex1.sh
+  864  cat ex1.txt
+  865  cat week1/ex1.txt 
+  866  history 10
+  867  ls
+  868  cd Desktop/
+  869  cd ..
+  870  history 10
+  871  history 100
+  872  cd week1/
+  873  touch ex1.sh
+  874  cat ex1.sh
+  875  touch ex2.sh
+  876  cat ex2.sh
+  877  gedit ex2.sh
+  878  bach ex2.sh
+  879  bash ex2.sh
+  880  gedit ex1.sh
+  881  bash ex1.sh
+  882  ./ex1.sh
+  883  gedit ex1.sh
+  884  ./ex1.sh
+  885  ./ex2.sh
+  886  sudo ./ex2.sh
+  887  chmod 744 ex1.sh
+  888  chmod 744 ex2.sh
+  889  ./ex2.sh
+  890  gedit ex2.sh
+  891  ./ex2.sh
+  892  cat ex2.txt
+  893  ls
+  894  ls -ltr
+  895  ls -ltr 
+  896  ls -t
+  897  ls
+  898  man ls
+  899  ls -ltr
+  900  ls/
+  901  ls /
+  902  ls ~
+  903  cd D
+  904  cd Desktop/
+  905  ls ~
+  906  ls -ltr /
+  907  date +"%T"
+  908  date 
+  909  date
+  910  cd ..
+  911  cd week1/
+  912  ls
+  913  touch ex3.sh
+  914  gedit ex3.sh
+  915  echo "fdfd"t
+  916  gedit ex3.sh
+  917  sh ex3.sh
+  918  gedit ex3.sh
+  919  sh ex3.sh
+  920  gedit ex3.sh
+  921  sh ex3.sh
+  922  gedit ex3.sh
+  923  sh ex3.sh
+  924  cd week1/
+  925  cd ~/week1/main.c
+  926  gedit  ~/week1/main.c
+  927  gcc main.c -o ex4
+  928  ./ex4
+  929  gedit
+  930  gedit ex2.sh
+  931  sh ex2.sh
+  932  gedit ex2.sh
+  933  sh ex2.sh
+  934  gedit ex2.sh
+  935  history
+  936  history 100
+  937  history 2
+  938  gedit ex2.sh
+  939  history 2
+  940  sh ex2.sh
+  941  gedit ex2.sh
+  942  sh ex2.sh
+  943  gedit ex2.sh
+  944  chmod 744 ex2.sh
+  945  ./ex2.sh

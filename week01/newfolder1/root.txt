@@ -1,0 +1,25 @@
+total 120
+drwxr-xr-x   2 root root  4096 фев  9  2021 srv
+drwxr-xr-x   2 root root  4096 фев  9  2021 mnt
+drwx------   2 root root 16384 авг  9  2021 lost+found
+lrwxrwxrwx   1 root root     8 авг  9  2021 sbin -> usr/sbin
+lrwxrwxrwx   1 root root    10 авг  9  2021 libx32 -> usr/libx32
+lrwxrwxrwx   1 root root     9 авг  9  2021 lib64 -> usr/lib64
+lrwxrwxrwx   1 root root     9 авг  9  2021 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root     7 авг  9  2021 lib -> usr/lib
+lrwxrwxrwx   1 root root     7 авг  9  2021 bin -> usr/bin
+drwxrwxr-x   2 root root  4096 авг  9  2021 cdrom
+drwxr-xr-x   3 root root  4096 авг 21  2021 media
+drwxr-xr-x  15 root root  4096 ноя 29  2021 var
+drwxr-xr-x  15 root root  4096 ноя 29  2021 usr
+drwxr-xr-x  22 root root  4096 мар  2  2022 snap
+drwx------   8 root root  4096 апр 14 20:11 root
+drwxr-xr-x  10 root root  4096 апр 29 01:06 opt
+drwxr-xr-x  10 root root  4096 июн 30 17:57 home
+drwxr-xr-x   4 root root  4096 авг 29 12:17 boot
+dr-xr-xr-x  13 root root     0 авг 30 15:56 sys
+dr-xr-xr-x 384 root root     0 авг 30 15:56 proc
+drwxr-xr-x 156 root root 12288 сен  3 11:42 etc
+drwxr-xr-x  22 root root  5400 сен  6 18:29 dev
+drwxr-xr-x  42 root root  1260 сен  6 20:24 run
+drwxrwxrwt  24 root root 45056 сен  6 20:41 tmp

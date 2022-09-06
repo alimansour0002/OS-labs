@@ -1,0 +1,23 @@
+total 344
+drwxr-xr-x  2 ali ali   4096 июн 30 17:57 Videos
+drwxr-xr-x  2 ali ali   4096 июн 30 17:57 Templates
+drwxr-xr-x  2 ali ali   4096 июн 30 17:57 Public
+drwxr-xr-x  2 ali ali   4096 июн 30 17:57 Music
+drwxr-xr-x  2 ali ali   4096 июн 30 18:04 Desktop
+drwxr-xr-x  2 ali ali   4096 июл  9 09:09 Documents
+drwxrwxr-x  9 ali ali   4096 авг 25 18:17 react17
+drwxrwxr-x  9 ali ali   4096 авг 25 20:01 react18
+drwxrwxr-x  7 ali ali   4096 авг 25 20:08 hasan-ver
+-rw-rw-r--  1 ali ali  92938 авг 25 20:44 package-lock.json
+-rw-rw-r--  1 ali ali    102 авг 25 20:44 package.json
+drwxrwxr-x 62 ali ali   4096 авг 25 20:44 node_modules
+drwxrwxr-x  9 ali ali   4096 авг 25 20:54 multisig-wallet
+drwx------  5 ali ali   4096 авг 26 12:18 snap
+-rw-rw-r--  1 ali ali  40508 авг 27 15:28 Unofficial transcript.pdf
+-rw-rw-r--  1 ali ali 104994 авг 27 15:50 Résumé.pdf
+drwxrwxr-x 15 ali ali   4096 авг 30 21:47 projects
+-rw-rw-r--  1 ali ali  35239 авг 31 18:37 7610.jpg
+drwxr-xr-x  2 ali ali   4096 сен  5 20:30 Pictures
+drwxr-xr-x  7 ali ali   4096 сен  6 18:32 Downloads
+-rw-rw-r--  1 ali ali     33 сен  6 19:12 ex1.txt
+drwxrwxr-x  4 ali ali   4096 сен  6 21:01 week1
