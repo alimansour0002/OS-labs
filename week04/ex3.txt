@@ -1,0 +1,6 @@
+so as we can see, 
+the answer for n =3  equals 8 ,
+the answer for n = 5 =32, 
+so here, in each iteration of the loop, a new fork is called by all already existed processes, so clearly we are doubling the number of processes 
+in each iteration, so the answer is always given by:
+number of processes = 2 ^ n

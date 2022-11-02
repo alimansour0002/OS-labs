@@ -1,0 +1,1 @@
+We notice that the method followed in the first exercise (FCFS) achieved a better performance than the on in the second exercise (SJF)
