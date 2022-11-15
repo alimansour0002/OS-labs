@@ -1,0 +1,10 @@
+ali@ali-VirtualBox:~/week10$ touch ~/week01/file.txt
+ali@ali-VirtualBox:~/week10$ link ~/week01/file.txt _ex2.txt
+ali@ali-VirtualBox:~/week10$ ls -i _ex2.txt
+2763186 _ex2.txt
+ali@ali-VirtualBox:~/week10$ find ~/ -inum 2763186
+/home/ali/week10/_ex2.txt
+/home/ali/week01/file.txt
+ali@ali-VirtualBox:~/week10$ find ~/ -inum 2763186 -exec rm {} \;
+ali@ali-VirtualBox:~/week10$ find ~/ -inum 2763186
+
